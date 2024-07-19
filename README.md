@@ -15,7 +15,7 @@ Welcome to Kenan.py! These Terms of Service ("ToS") govern your use of our Disco
 - We reserve the right to terminate or suspend access to the bot for any reason, including violation of these ToS.
 
 ## Changes to ToS
-- We may update these ToS from time to time. We will notify users of significant changes via the updates in Kenan.py's Official repository.
+- We may update these ToS from time to time. We will notify users of significant changes via the Discord Bots patch notes.
 
 ## Contact Us
 If you have any questions about these ToS, please contact us at kenanidk@gmail.com.
